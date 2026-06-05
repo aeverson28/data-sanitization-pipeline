@@ -36,6 +36,7 @@ Obs: Para testar este código, baixe os arquivos CSV deste repositório e faça 
 ### 3. Resultados
 Ao final da execução, o console exibirá um relatório estatístico e o script irá gerar automaticamente os arquivos perfeitamente higienizados no seu diretório.
 
+---
 
 ## Reflexão Teórica: O Papel da Limpeza de Dados no Machine Learning
 

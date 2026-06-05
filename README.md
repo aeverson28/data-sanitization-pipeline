@@ -1,8 +1,8 @@
-# 🛠️ Data Sanitization Pipeline (Python Nativo)
+# Data Sanitization Pipeline (Python Nativo)
 
-Este projeto consiste na construção de um pipeline de Engenharia de Dados focado na limpeza, padronização e sanitização de dados, utilizando **exclusivamente bibliotecas nativas do Python** (`csv`, `re`, `datetime`). 
+Este projeto consiste na construção de um pipeline de Engenharia de Dados focado na limpeza, padronização e sanitização de dados.
 
-O objetivo é demonstrar domínio da linguagem base, manipulação de arquivos em disco de forma otimizada (sem carregar tudo na memória) e aplicação de regras de negócio.
+O objetivo é demonstrar domínio da linguagem Python, usando exclusivamente bibliotecas nativas como csv, re, datetime, operadores padrões e aplicação de regras de negócio para construir um pipeline de sanitização.
 
 # Pipeline de Sanitização de Dados (Python Nativo)
 

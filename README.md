@@ -4,12 +4,14 @@ Este projeto consiste na construção de um pipeline de Engenharia de Dados foca
 
 O objetivo é demonstrar domínio da linguagem Python, usando exclusivamente bibliotecas nativas como csv, re, datetime, operadores padrões e aplicação de regras de negócio para construir um pipeline de sanitização.
 
+---
+
 # Pipeline de Sanitização de Dados (Python Nativo)
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido para solucionar problemas de inconsistência e sujeira em dados reais de e-commerce da **Olist**. Frequentemente, bases de dados brutas chegam com valores nulos, formatos de datas incorretos, caracteres especiais indesejados e registros corrompidos que inviabilizam análises precisas ou a construção de modelos preditivos confiáveis.
 
-O objetivo deste script é construir um **Pipeline de Engenharia de Dados (ETL)** totalmente automatizado para limpar, padronizar e higienizar dois datasets fundamentais (`produtos` e `pedidos`). O grande diferencial técnico é que todo o processamento foi construído **exclusivamente com bibliotecas nativas do Python** (`csv`, `re` e `datetime`), sem o uso de abstrações pesadas como o *Pandas*. Esta abordagem garante um processamento em streaming (linha a linha), evitando estouro de memória (MemoryError) e garantindo altíssima performance mesmo em bases com milhões de registros.
+O objetivo deste script é construir um **Pipeline de Engenharia de Dados (ETL)** totalmente automatizado para limpar, padronizar e higienizar dois datasets fundamentais (`produtos` e `pedidos`). O grande diferencial técnico é que todo o processamento foi construído **exclusivamente com bibliotecas nativas do Python** (`csv`, `re` e `datetime`), sem o uso de bilbiotecas como o *Pandas*.
 
 ---
 

@@ -21,7 +21,8 @@ Siga os passos abaixo para testar o pipeline no seu próprio ambiente:
 Faça o download dos arquivos de dados brutos e garanta que eles estejam salvos com os seguintes nomes no mesmo diretório do script:
 * `dataset_produtos.csv`
 * `dataset_pedidos.csv`
-Para testar este código, baixe os arquivos CSV deste repositório e faça o upload deles no seu ambiente Colab ou pasta local.
+
+Obs: Para testar este código, baixe os arquivos CSV deste repositório e faça o upload deles no seu ambiente Colab ou pasta local.
 
 
 ### 2. Execução do Script

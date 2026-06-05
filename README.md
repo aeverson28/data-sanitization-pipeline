@@ -1,4 +1,4 @@
-# Data Sanitization Pipeline (Python Nativo)
+# Mini-projeto de Sanitização de Dados
 
 Este projeto consiste na construção de um pipeline de Engenharia de Dados focado na limpeza, padronização e sanitização de dados.
 
@@ -6,7 +6,7 @@ O objetivo é demonstrar domínio da linguagem Python, usando exclusivamente bib
 
 ---
 
-# Pipeline de Sanitização de Dados (Python Nativo)
+# Pipeline de Sanitização de Dados
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido para solucionar problemas de inconsistência e sujeira em dados reais de e-commerce da **Olist**. Frequentemente, bases de dados brutas chegam com valores nulos, formatos de datas incorretos, caracteres especiais indesejados e registros corrompidos que inviabilizam análises precisas ou a construção de modelos preditivos confiáveis.
